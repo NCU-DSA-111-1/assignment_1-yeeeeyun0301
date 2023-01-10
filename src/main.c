@@ -2,6 +2,10 @@
 #include "layer.h"
 #include "neuron.h"
 
+#include <stdio.h>
+#include <math.h>
+#include <stdlib.h>
+
 
 layer *lay = NULL;
 int num_layers;
